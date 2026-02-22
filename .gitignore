@@ -1,0 +1,7 @@
+node_modules/
+.env*
+Bhashini.txt
+health_train_api_docs.txt
+health_api_docs.txt
+backend/
+.DS_Store

@@ -1,0 +1,8 @@
+.App {
+  min-height: 100vh;
+}
+
+/* Remove old styles */
+.App-header {
+  display: none;
+}
