@@ -1,17 +1,14 @@
 # Swasthya-Darshan
 
-## Overview
-
-No repository description is currently provided.
+A full-stack application organized into a browser frontend and a Node.js backend.
 
 ## Technology
 
-JavaScript, CSS, HTML
+- JavaScript
+- HTML
+- CSS
+- Node.js
 
-## Repository contents
+## Run
 
-`.gitignore`, `.vscode`, `backend-node`, `frontend`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Install dependencies and start the frontend and backend from their respective directories.
